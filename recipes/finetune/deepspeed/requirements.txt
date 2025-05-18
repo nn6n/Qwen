@@ -1,2 +1,4 @@
 deepspeed
 peft
+torch>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.50.0 # not directly required, pinned by Snyk to avoid a vulnerability
