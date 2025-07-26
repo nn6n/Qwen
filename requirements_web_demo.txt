@@ -1,2 +1,3 @@
 gradio<3.42
 mdtex2html
+starlette>=0.47.2 # not directly required, pinned by Snyk to avoid a vulnerability
