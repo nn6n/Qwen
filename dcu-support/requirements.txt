@@ -7,3 +7,4 @@ transformers_stream_generator==0.0.4
 accelerate
 einops
 #scipy
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
